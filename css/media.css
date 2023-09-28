@@ -1,0 +1,19 @@
+@media(max-width:575px) and (min-width:320px){
+    .sub_timer {
+        width: 300px;
+        border-radius: 10px;
+        margin-right: 5px;
+    }
+
+    .digit {
+        font-size: 30px;
+        text-align: center;
+        padding: 1.3rem 0;
+    }
+
+    .digit_name {
+        text-align: center;
+        padding: 0.2rem 0;
+        font-size: 15px;
+    }
+  }
